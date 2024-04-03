@@ -2,6 +2,8 @@
 
 ## En este ejemplo, se crea una base de datos utilizando DB4O llamada DBJefeHijo. La base de datos contendrá información sobre jefes y sus hijos. A continuación, se muestra el código en Java para crear y manipular esta base de datos:
 
+
+
 import com.db4o.Db4oEmbedded;
 import com.db4o.ObjectContainer;
 import java.io.File;
@@ -41,5 +43,5 @@ CONSULTAS A REALIZAR:
 
 3. Borrar los jefes que llevan más de 6 años en la empresa:
 
-* Visualizar todos los jefes que quedan, incluidos sus hijos, que no han sido borrados anteriormente:
+4. Visualizar todos los jefes que quedan, incluidos sus hijos, que no han sido borrados anteriormente:
 
