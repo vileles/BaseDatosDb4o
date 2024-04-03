@@ -37,11 +37,11 @@ public class Main {
 
 CONSULTAS A REALIZAR:
 
-1. Visualizar los jefes que tengan más de 55 años:
+1. Visualizar los jefes que tengan más de 55 años.
 
-2. Modificar la edad de Miguel incrementándola en un año:
+2. Modificar la edad de Miguel incrementándola en un año.
 
-3. Borrar los jefes que llevan más de 6 años en la empresa:
+3. Borrar los jefes que llevan más de 6 años en la empresa.
 
-4. Visualizar todos los jefes que quedan, incluidos sus hijos, que no han sido borrados anteriormente:
+4. Visualizar todos los jefes que quedan, incluidos sus hijos, que no han sido borrados anteriormente.
 
